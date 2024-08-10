@@ -2,7 +2,7 @@
 name: Request for Proposal (RFP)
 about: Template for students to propose a new project for consideration by the core team
 title: 'Proposal: [Project Name]'
-labels: feature, review, proposal
+labels: feature, review, epic
 assignees: ''
 
 ---

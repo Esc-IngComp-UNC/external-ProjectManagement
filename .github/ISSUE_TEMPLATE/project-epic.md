@@ -2,6 +2,7 @@
 name: Project Specification
 about: Template for formally describing and planning a project using project management best practices
 title: '[Project Name] - Project Specification'
+labels: epic
 assignees: ''
 
 ---
